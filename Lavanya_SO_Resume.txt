@@ -1,0 +1,22 @@
+LAVANYA S O - RESUME
+============================
+📧 Email: lavanyasolavanya@gmail.com
+🎓 BCA Student @ Vidya First Grade College, Tumkur
+
+EDUCATION:
+• BCA - Vidya First Grade College, Tumkur (Currently studying)
+• PUC - Sri Ranganatha PU College, Sira
+• High School - Government High School, Pattanayakanahalli
+
+PROJECTS:
+⭐ UPI Fraud Detection System: Real-time anomaly detection for UPI transactions using rule-based logic & Java.
+
+CERTIFICATIONS:
+✔ Java Certification (Great Learning)
+✔ DBMS Certification (Great Learning)
+
+SKILLS:
+Java, DBMS, Web Development (HTML/CSS/JS), Fraud Detection, Responsive Design.
+
+Achievements: Academic project excellence, quick learner.
+      
